@@ -1,0 +1,10 @@
+id: Timer
+name: Timer Interceptor Policy
+description: Timer Interceptor
+category: Custom
+type: custom
+resourceLevelSupported: true
+standalone: true
+requiredCharacteristics: []
+providedCharacteristics: []
+configuration: []
